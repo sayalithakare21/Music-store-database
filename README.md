@@ -1,0 +1,1 @@
+This project entails the creation of a relational database for a music store, designed to manage various aspects of inventory, sales, customers, and employees. The database schema is structured to efficiently store and retrieve information related to music products, transactions, and customer interactions
